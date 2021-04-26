@@ -1,0 +1,8 @@
+name: 'Gittyleaks'
+description: 'Action to Gittyleaks tool'
+branding:
+  icon: search
+  color: red
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
